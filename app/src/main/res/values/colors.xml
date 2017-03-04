@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Color for book number 1 -->
+    <color name="book1">#4A7BA7</color>
+
+    <!-- Color for book number 2 -->
+    <color name="book2">#04B4B3</color>
+
+    <!-- Color for book number 3 -->
+    <color name="book3">#10CAC9</color>
+
+    <!-- Color for book number 4 -->
+    <color name="book4">#F5A623</color>
+
+    <!-- Color for book number 5 -->
+    <color name="book5">#FF7D50</color>
+
+    <!-- Color for book number 6 -->
+    <color name="book6">#FC6644</color>
+
+    <!-- Color for book number 7 -->
+    <color name="book7">#E75F40</color>
+
+    <!-- Color for book number 8 -->
+    <color name="book8">#E13A20</color>
+
+    <!-- Color for book number 9 -->
+    <color name="book9">#D93218</color>
+
+    <!-- Color for book number 10 -->
+    <color name="book10">#C03823</color>
+</resources>

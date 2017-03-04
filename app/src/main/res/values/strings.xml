@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BookApp 2</string>
+    <string name="search">Search Books</string>
+    <string name="next">NEXT</string>
+</resources>
